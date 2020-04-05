@@ -1,3 +1,3 @@
-# React Cheatsheet
+# React Cheatsheets
 
-Cheatsheet for React with Hooks. 30 pages.
+Cheatsheets for React with Hooks.
